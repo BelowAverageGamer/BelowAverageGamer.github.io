@@ -1,0 +1,25 @@
+.image {
+	display: block;
+	width: 50%;
+	border: 10px solid #000000;
+	border-radius: 25%;
+	padding: 0px;
+}
+	
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+td, th {
+	border: 1px solid #dddddd;
+	padding: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #dddddd;
+}
