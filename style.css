@@ -11,6 +11,10 @@
 	margin-right: auto;
 }
 
+.bottom {
+	margin-bottom: 160px;
+}
+
 p {
 	text-align: center;
 	font-size: 1em;
@@ -34,8 +38,4 @@ td, th {
 
 tr:nth-child(even) {
 	background-color: #dddddd;
-}
-
-div.bottom {
-	margin-bottom: 160px;
 }
