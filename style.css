@@ -34,3 +34,7 @@ td, th {
 tr:nth-child(even) {
 	background-color: #dddddd;
 }
+
+div.bottom {
+	margin-bottom: 160px;
+}
