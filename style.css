@@ -1,6 +1,5 @@
 .image {
 	display: block;
-	width: 50%;
 	border: 10px solid #000000;
 	border-radius: 25%;
 	padding: 0px;
@@ -9,6 +8,7 @@
 .center {
 	margin-left: auto;
 	margin-right: auto;
+	width: 50%;
 }
 
 table {
