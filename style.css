@@ -1,0 +1,46 @@
+.image {
+	display: block;
+	border: 10px solid #000000;
+	border-radius: 25%;
+	padding: 0px;
+	width: 50%;
+}
+	
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bottom {
+	margin-bottom: 160px;
+}
+
+p {
+	text-align: center;
+	font-size: 1em;
+}
+
+h1 {
+	text-align: center;
+	font-size: 8em;
+	font-family: arial;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+button {
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%);
+}
+
+td, th {
+	border: 1px solid #dddddd;
+	padding: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #dddddd;
+}
